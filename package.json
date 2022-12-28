@@ -1,0 +1,25 @@
+{
+  "name": "home-layout",
+  "version": "1.0.0",
+  "description": "Personal website layout component package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lufuhu/home-layout.git"
+  },
+  "keywords": [
+    "layout"
+  ],
+  "author": "lufuhu <master@lufuhu.com> (https://github.com/lufuhu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lufuhu/home-layout/issues"
+  },
+  "homepage": "https://github.com/lufuhu/home-layout#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
